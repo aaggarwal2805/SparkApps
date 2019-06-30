@@ -3,5 +3,4 @@
 * [Movie recommendation system](https://github.com/aaggarwal2805/SparkApps/tree/master/movielens-analysis/src)
 
 ### References
-* Assignments : [Udamy Course on Apache Spark and Python](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/)
 * Data reference : [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/). Released 4/1998
