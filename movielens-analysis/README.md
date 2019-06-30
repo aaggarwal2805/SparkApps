@@ -3,4 +3,4 @@
 * [Movie recommendation system](https://github.com/aaggarwal2805/SparkApps/tree/master/movielens-analysis/src)
 
 ### References
-* Data reference : [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/). Released 4/1998
+* Data reference : [MovieLens 6MB Dataset](https://grouplens.org/datasets/movielens/). Released 4/1998
